@@ -1,1 +1,0 @@
-# Patika.dev_SQL_Odev4
